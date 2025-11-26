@@ -26,7 +26,7 @@ To request access to the dataset, please complete **one** of the following forms
    [🔗 Access via RIOVS SBMU Portal](https://en.riovs.sbmu.ac.ir/Access-to-the-keratoconus-image-bank)  
 
 2. **Google Form**:  
-   [🔗 Access via Google Form](https://forms.gle/2NsrLxojnDg7kphy5](https://docs.google.com/forms/d/e/1FAIpQLSffnovOpp2Y3OhccT4JwQ4d5KCs5Eke9J4yobNA9DKyYM_arw/viewform?usp=dialog).
+   [🔗 Access via Google Form](https://docs.google.com/forms/d/e/1FAIpQLSffnovOpp2Y3OhccT4JwQ4d5KCs5Eke9J4yobNA9DKyYM_arw/viewform?usp=dialog).
 
 ---
 
