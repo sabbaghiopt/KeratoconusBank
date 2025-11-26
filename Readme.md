@@ -4,8 +4,8 @@ This project presents a deep learning-based approach to automatically detect Ker
 
 ## The dataset includes 3538 eyes: 
 
-- **1872 ** cases with *keratoconus*
-- **1666 ** healthy individuals  
+- **1872** cases with *keratoconus*
+- **1666** healthy individuals  
 
 ## Four types of color-coded corneal maps were used: 
 
